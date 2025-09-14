@@ -1,0 +1,11 @@
+{
+  "id": "bmd-mv16-vars",
+  "name": "Multiview 16 (Vars)",
+  "shortname": "mv16-vars",
+  "manufacturer": "Blackmagic Design",
+  "version": "1.0.0",
+  "minimum_companion_version": "3.0.0",
+  "entrypoint": "main.js",
+  "keywords": ["blackmagic", "multiview", "videohub", "mv16", "labels", "variables"],
+  "legacyIds": []
+}
